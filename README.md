@@ -1,4 +1,4 @@
-# Email Generation
+# :email: Email Generation
 
 ![Custom badge](https://img.shields.io/badge/build-passing-brightgreen)
 ![Custom badge](https://img.shields.io/badge/build%20tool-maven-brightgreen)
